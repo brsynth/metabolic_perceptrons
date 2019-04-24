@@ -1,0 +1,6 @@
+# 24/12/18:
+
+Data is subtraced and GFP normalised, can move on.
+Changed value told by Amir '230' to 56 which seeed to be true from the Excel
+Used 230 again because this was empty well and not empty extract
+The rest of the data comes from the adder_perceptron data, where calculations are.
